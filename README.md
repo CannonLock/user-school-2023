@@ -1,6 +1,6 @@
-# OSG User School 2022
+# OSG User School 2023
 
-The source files for the OSG User School 2022 website.
+The source files for the OSG User School 2023 website.
 
 To serve the website locally, download Docker and use the command in the root directory:
 
@@ -11,7 +11,7 @@ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
 
 ARM
 ```shell
-docker run --rm -it -p 8000:8000 -v  ${PWD}:/docs ghcr.io/afritzler/mkdocs-material
+docker run --rm -it -p 8100:8000 -v  ${PWD}:/docs ghcr.io/afritzler/mkdocs-material
 ```
 
 # Adding Documentation to the Website
@@ -26,7 +26,7 @@ When you add new documentation you should name the file like so: ```part<x>-ex<y
 
 Documentation should be referenced in two locations:
 
-#### [/docs/material/index.md](https://github.com/osg-htc/user-school-2022/blob/main/docs/materials/index.md)
+#### [/docs/material/index.md](https://github.com/osg-htc/user-school-2023/blob/main/docs/materials/index.md)
 
 This is an overview page that contains all documentation and each category's files.
 
@@ -43,7 +43,7 @@ Use format below when adding to this page
 - [Exercise 1.2: <exercise-name>](<category>/part1-ex2-<exercise-name>.md)
 ```
         
-#### [/mkdocs.yml](https://github.com/osg-htc/user-school-2022/blob/main/mkdocs.yml)
+#### [/mkdocs.yml](https://github.com/osg-htc/user-school-2023/blob/main/mkdocs.yml)
 
 This files generates the website navigation. You should not include the category files in this navigation.
 

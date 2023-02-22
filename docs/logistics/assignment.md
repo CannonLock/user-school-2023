@@ -1,4 +1,4 @@
-# OSG User School 2022 Assignment
+# OSG User School 2023 Assignment
 
 The School focused on using high-throughput computing (HTC) to support and transform scientific inquiry.
 Your final assignment lets you show what you learned and how you might apply your new abilities.
@@ -44,7 +44,7 @@ but be sure to start with the high-level plan so we understand the context.
 
 ### Deadline
 
-The paper is due 16 September 2022.
+The paper is due 16 September 2023.
 Contact us early if you need an extension.
 
 ## Questions?

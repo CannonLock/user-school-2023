@@ -21,5 +21,5 @@ the email.
 Once the project PI has confirmed your membership, OSG Facilitators will create a new 
 project of the form `Institution_PIName` within 2 business days. You will receive
 a notification when you are added to the new project, and a follow up email from 
-the OSG faciliation team with instructions for how to switch from the `OSGUserSchool2022` project 
+the OSG faciliation team with instructions for how to switch from the `OSGUserSchool2023` project 
 to your new project. 

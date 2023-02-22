@@ -1,11 +1,11 @@
 # Getting Reimbursed for Expenses
 
-If you paid for certain expenses to attend the OSG User School 2022,
+If you paid for certain expenses to attend the OSG User School 2023,
 then we will reimburse you for them.
 This page explains what can be reimbursed and how to request reimbursement.
 Please read **this whole page carefully** before submitting your request.
 
-**The deadline for all reimbursement submissions is <span style="color: #FF6600;">Friday, 16 September 2022</span>.**
+**The deadline for all reimbursement submissions is <span style="color: #FF6600;">Friday, 16 September 2023</span>.**
 
 ## What Can Be Reimbursed?
 
@@ -45,7 +45,7 @@ Please follow these instructions carefully for fastest processing of your reimbu
 
 1.  Gather your reimbursement information (see above for what you need).
 
-1.  **Email your reimbursement request by Friday, 16 September 2022.**
+1.  **Email your reimbursement request by Friday, 16 September 2023.**
 
     Write a clear email with your name,
     the exact expenses and amounts to be reimbursed,
@@ -55,7 +55,7 @@ Please follow these instructions carefully for fastest processing of your reimbu
     Use the sample format below to get started,
     <span style="color: #FF6600;">but update the subtotals and remove the sections that do not apply to you</span>:
 
-        I attended the OSG User School 2022 in Madison, Wisconsin, and I request
+        I attended the OSG User School 2023 in Madison, Wisconsin, and I request
         reimbursement for the following School-related expenses:
 
         STUDENT INFORMATION
@@ -82,18 +82,18 @@ Please follow these instructions carefully for fastest processing of your reimbu
           * Estimated total miles (from Google Maps): 432
 
         Dinners => $77.77
-          * Sun, 24 July 2022: $20.00
-          * Mon, 25 July 2022: $20.00
-          * Tue, 26 July 2022: $15.80
-          * Wed, 27 July 2022: $19.84
-          * Thu, 28 July 2022: $22.13
+          * Sun, 24 July 2023: $20.00
+          * Mon, 25 July 2023: $20.00
+          * Tue, 26 July 2023: $15.80
+          * Wed, 27 July 2023: $19.84
+          * Thu, 28 July 2023: $22.13
 
         TOTAL => $388.87
 
 1.  For receipts, just attach the electronic files (PDF) to your request email;
     or, email separately to [user-school@opensciencegrid.org](mailto:user-school@opensciencegrid.org).
 
-    All receipts must be emailed by Friday, 16 September 2022,
+    All receipts must be emailed by Friday, 16 September 2023,
     or the corresponding expenses will not be reimbursed.
 
 1.  OSG School staff will review your request and either approve it or send it back for changes.

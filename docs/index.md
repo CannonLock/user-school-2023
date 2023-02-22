@@ -1,4 +1,4 @@
-# OSG User School 2022
+# OSG User School 2023
 
 <figure>
     <img src="assets/Madison_Skyline.jpeg" alt="Madison Skyline" />
@@ -9,7 +9,6 @@
 *Learn how during a week this summer at the lovely [University of Wisconsin–Madison](https://wisc.edu/)*
 
 During the School,
-July 25–29,
 you will learn to use [high-throughput computing](https://htcondor.org/htc.html) (HTC) systems —
 at your own campus or using the national-scale [OSG](https://osg-htc.org/) —
 to run large-scale computing applications that are at the heart of today’s cutting-edge science.
@@ -27,10 +26,6 @@ plus we welcome applications from advanced undergraduates, post-doctoral student
 People accepted to this program will receive financial support for
 basic travel and local costs associated with the School.
 
-## Applications
-
-Applications are now closed and all applicants have been notified of their status.
-We received a large number of applications this year, so thanks to everyone for your enthusiastic interest!
 
 ## Contact Us
 

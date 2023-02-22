@@ -1,4 +1,4 @@
-# OSG User School 2022 Logistics
+# OSG User School 2023 Logistics
 
 The following pages describe some of the important information about your visit to Madison for the OSG User School.
 Please read them carefully.
@@ -17,12 +17,12 @@ Use that email address for all emails about the organization of the School.
 
 For planning your trip:
 
--   **Arrive on Sunday, July 24, 2022,** prior to 6 p.m. (if possible).
+-   **Arrive on Sunday, July 24, 2023,** prior to 6 p.m. (if possible).
     There is a welcome dinner on Sunday evening for all participants (including instructors),
     and then classes begin on Monday morning.
     This is a nice way to get to know each other and to start the week.
 
--   **Depart on Saturday, July 30, 2022,** any time.
+-   **Depart on Saturday, July 30, 2023,** any time.
     The School ends with another dinner on Friday evening,
     so it is best to stay that night.
 

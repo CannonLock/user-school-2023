@@ -1,6 +1,6 @@
 # COVID Policy
 
-The OSG User School 2022 at the University of Wisconsin–Madison welcomes participants
+The OSG User School 2023 at the University of Wisconsin–Madison welcomes participants
 from around the United States plus Mali and Uganda. We are excited to resume the 
 in-person School, but recognize the current COVID-19 situation and the added risks
 that in-person events bring. This page contains the COVID policies and plans for 
