@@ -229,8 +229,8 @@ Details to be determined and posted here.
       <td>11:00</td>
       <td>12:00</td>
       <td colspan="2">
-        HTC Showcase, Part 1
-        <div>Details TBD</div>
+        HTC Showcase<br>
+        Speakers: Kendra Wyant and Eric Pulick
       </td>
     </tr>
     <tr>
@@ -451,8 +451,8 @@ Details to be determined and posted here.
         <td>13:30</td>
         <td>14:30</td>
         <td colspan="2">
-          HTC Showcase, Part 2
-          <div>Details TBD</div>
+            HTC Showcase<br>
+            Speakers: Grant Nickles and Jimena Gonzalez
         </td>
     </tr>
     <tr>
